@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Release') {
             steps {
-                echo 'Release Process started...'
+                echo 'Release Process started....'
             }
         }
     }
